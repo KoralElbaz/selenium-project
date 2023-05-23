@@ -1,6 +1,8 @@
 # Selenium project
 
-This project allowed me to learn and experiment with Selenium. I conducted research on two websites: BBC and the BBG flight schedule.
+This project allowed me to learn and experiment with Selenium. 
+
+I conducted research on two websites: BBC and the BBG flight schedule.
 
 On the BBC website, my task was to extract articles, store raw data, and perform word or phrase searches within the articles.
 
