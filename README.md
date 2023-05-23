@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Selenium project
 
 This project allowed me to learn and experiment with Selenium. I conducted research on two websites: BBC and the BBG flight schedule.
 
